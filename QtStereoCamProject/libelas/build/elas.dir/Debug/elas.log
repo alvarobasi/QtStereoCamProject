@@ -1,0 +1,88 @@
+﻿  Building Custom Rule D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/CMakeLists.txt
+  CMake does not need to re-run because D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/generate.stamp is up-to-date.
+cl : Línea de comandos warning D9002: se omite la opción desconocida '-msse3'
+  descriptor.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\descriptor.h(39): error C2371: 'int8_t': nueva definición; tipos básicos distintos
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\stdint.h(17): note: vea la declaración de 'int8_t'
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\filter.h(32): error C2371: 'int8_t': nueva definición; tipos básicos distintos
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\stdint.h(17): note: vea la declaración de 'int8_t'
+  elas.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\elas.h(38): error C2371: 'int8_t': nueva definición; tipos básicos distintos
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\stdint.h(17): note: vea la declaración de 'int8_t'
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\descriptor.h(39): error C2371: 'int8_t': nueva definición; tipos básicos distintos
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\stdint.h(17): note: vea la declaración de 'int8_t'
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\matrix.h(34): error C2371: 'int8_t': nueva definición; tipos básicos distintos
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\stdint.h(17): note: vea la declaración de 'int8_t'
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\elas.cpp(845): warning C4838: la conversión de 'int32_t' en 'float' requiere una conversión de restricción
+  filter.cpp
+  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\elas.h(38): error C2371: 'int8_t': nueva definición; tipos básicos distintos
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\stdint.h(17): note: vea la declaración de 'int8_t'
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\main.cpp(77): error C3861: 'max': no se encontró el identificador
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\main.cpp(78): error C3861: 'max': no se encontró el identificador
+  matrix.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\matrix.h(34): error C2371: 'int8_t': nueva definición; tipos básicos distintos
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\stdint.h(17): note: vea la declaración de 'int8_t'
+  triangle.cpp
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1422): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1422): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1422): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1428): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1428): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1428): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1435): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1435): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1435): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1442): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1442): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1442): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1450): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 2 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1450): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1450): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1457): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 2 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1457): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1457): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1464): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 2 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1464): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1464): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1471): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1471): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1471): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1476): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1476): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1476): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1481): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1481): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1481): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1508): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1508): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1508): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1514): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1514): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1514): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1521): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1521): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1521): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1529): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 2 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1529): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1529): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1536): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 2 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1536): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1536): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1544): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1544): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1544): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1551): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1551): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1551): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1559): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 2 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1559): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1559): note: considere el uso de ' %I64x' en la cadena de formato
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1566): warning C4477: 'printf' : la cadena de formato '%lx' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 2 tiene el tipo 'unsigned __int64'
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1566): note: considere el uso de ' %llx' en la cadena de formato
+  d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\triangle.cpp(1566): note: considere el uso de ' %I64x' en la cadena de formato
+  Generando código...

@@ -1,0 +1,6 @@
+﻿  QtStereoCamProject.cpp
+d:\alvaro\documents\master\metrologia\qtstereocamproject\qtstereocamproject\qtstereocamproject.cpp(153): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+d:\alvaro\documents\master\metrologia\qtstereocamproject\qtstereocamproject\qtstereocamproject.cpp(153): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'std::string'
+d:\alvaro\documents\master\metrologia\qtstereocamproject\qtstereocamproject\qtstereocamproject.cpp(175): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  d:\alvaro\documents\master\metrologia\qtstereocamproject\qtstereocamproject\qtstereocamproject.cpp(175): note: consider using '%zd' in the format string
+  QtStereoCamProject.vcxproj -> D:\Alvaro\Documents\Master\METROLOGIA\QtStereoCamProject\x64\Release\QtStereoCamProject.exe

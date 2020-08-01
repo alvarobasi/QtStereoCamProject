@@ -1,0 +1,381 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine versi�n 15.7.177.53362 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci�n iniciada a las 07/11/2018 18:31:11.
+Proyecto "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\3.12.3\CompilerIdC\CompilerIdC.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "Debug\".
+  Creando directorio "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Se crear� "Debug\CompilerIdC.tlog\unsuccessfulbuild" porque se especific� "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\3.12.3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Se eliminar� el archivo "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Compilaci�n del proyecto terminada "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\3.12.3\CompilerIdC\CompilerIdC.vcxproj" (destinos predeterminados).
+
+Compilaci�n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:03.21
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/3.12.3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine versi�n 15.7.177.53362 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci�n iniciada a las 07/11/2018 18:31:15.
+Proyecto "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\3.12.3\CompilerIdCXX\CompilerIdCXX.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "Debug\".
+  Creando directorio "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Se crear� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" porque se especific� "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\3.12.3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Se eliminar� el archivo "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Compilaci�n del proyecto terminada "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\3.12.3\CompilerIdCXX\CompilerIdCXX.vcxproj" (destinos predeterminados).
+
+Compilaci�n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.95
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/3.12.3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_e85a4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.7.177.53362 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 07/11/2018 18:31:18.
+Proyecto "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_e85a4.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_e85a4.dir\Debug\".
+  Creando directorio "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_e85a4.dir\Debug\cmTC_e85a4.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_e85a4.dir\Debug\cmTC_e85a4.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e85a4.dir\Debug\\" /Fd"cmTC_e85a4.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.14.26428.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e85a4.dir\Debug\\" /Fd"cmTC_e85a4.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_e85a4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_e85a4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_e85a4.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e85a4.dir\Debug\testCCompiler.obj
+  cmTC_e85a4.vcxproj -> D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_e85a4.exe
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_e85a4.dir\Debug\cmTC_e85a4.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_e85a4.dir\Debug\cmTC_e85a4.tlog\cmTC_e85a4.lastbuildstate".
+Compilaci¢n del proyecto terminada "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_e85a4.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.94
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_8698d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.7.177.53362 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 07/11/2018 18:31:20.
+Proyecto "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_8698d.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_8698d.dir\Debug\".
+  Creando directorio "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_8698d.dir\Debug\cmTC_8698d.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_8698d.dir\Debug\cmTC_8698d.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8698d.dir\Debug\\" /Fd"cmTC_8698d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.14.26428.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8698d.dir\Debug\\" /Fd"cmTC_8698d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_8698d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_8698d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_8698d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_8698d.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_8698d.vcxproj -> D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_8698d.exe
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_8698d.dir\Debug\cmTC_8698d.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_8698d.dir\Debug\cmTC_8698d.tlog\cmTC_8698d.lastbuildstate".
+Compilaci¢n del proyecto terminada "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_8698d.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.39
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_51c68.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.7.177.53362 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 07/11/2018 18:31:22.
+Proyecto "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_51c68.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_51c68.dir\Debug\".
+  Creando directorio "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_51c68.dir\Debug\cmTC_51c68.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_51c68.dir\Debug\cmTC_51c68.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_51c68.dir\Debug\\" /Fd"cmTC_51c68.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\feature_tests.c
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.14.26428.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_51c68.dir\Debug\\" /Fd"cmTC_51c68.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\feature_tests.c
+  feature_tests.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_51c68.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_51c68.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_51c68.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_51c68.dir\Debug\feature_tests.obj
+  cmTC_51c68.vcxproj -> D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_51c68.exe
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_51c68.dir\Debug\cmTC_51c68.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_51c68.dir\Debug\cmTC_51c68.tlog\cmTC_51c68.lastbuildstate".
+Compilaci¢n del proyecto terminada "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_51c68.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.37
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_01154.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.7.177.53362 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 07/11/2018 18:31:24.
+Proyecto "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_01154.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_01154.dir\Debug\".
+  Creando directorio "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_01154.dir\Debug\cmTC_01154.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_01154.dir\Debug\cmTC_01154.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_01154.dir\Debug\\" /Fd"cmTC_01154.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.14.26428.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_01154.dir\Debug\\" /Fd"cmTC_01154.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  testCXXCompiler.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_01154.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_01154.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_01154.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_01154.dir\Debug\testCXXCompiler.obj
+  cmTC_01154.vcxproj -> D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_01154.exe
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_01154.dir\Debug\cmTC_01154.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_01154.dir\Debug\cmTC_01154.tlog\cmTC_01154.lastbuildstate".
+Compilaci¢n del proyecto terminada "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_01154.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.53
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_a7548.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.7.177.53362 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 07/11/2018 18:31:25.
+Proyecto "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_a7548.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_a7548.dir\Debug\".
+  Creando directorio "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_a7548.dir\Debug\cmTC_a7548.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_a7548.dir\Debug\cmTC_a7548.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a7548.dir\Debug\\" /Fd"cmTC_a7548.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.14.26428.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a7548.dir\Debug\\" /Fd"cmTC_a7548.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_a7548.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_a7548.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_a7548.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a7548.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_a7548.vcxproj -> D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_a7548.exe
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_a7548.dir\Debug\cmTC_a7548.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_a7548.dir\Debug\cmTC_a7548.tlog\cmTC_a7548.lastbuildstate".
+Compilaci¢n del proyecto terminada "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_a7548.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.37
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_ea87e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.7.177.53362 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 07/11/2018 18:31:28.
+Proyecto "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_ea87e.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_ea87e.dir\Debug\".
+  Creando directorio "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_ea87e.dir\Debug\cmTC_ea87e.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_ea87e.dir\Debug\cmTC_ea87e.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ea87e.dir\Debug\\" /Fd"cmTC_ea87e.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\feature_tests.cxx
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.14.26428.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ea87e.dir\Debug\\" /Fd"cmTC_ea87e.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_ea87e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_ea87e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Projects/Master/QtStereoCamProject/QtStereoCamProject/libelas/build/CMakeFiles/CMakeTmp/Debug/cmTC_ea87e.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_ea87e.dir\Debug\feature_tests.obj
+  cmTC_ea87e.vcxproj -> D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\Debug\cmTC_ea87e.exe
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_ea87e.dir\Debug\cmTC_ea87e.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_ea87e.dir\Debug\cmTC_ea87e.tlog\cmTC_ea87e.lastbuildstate".
+Compilaci¢n del proyecto terminada "D:\Projects\Master\QtStereoCamProject\QtStereoCamProject\libelas\build\CMakeFiles\CMakeTmp\cmTC_ea87e.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.48
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

@@ -1,0 +1,7 @@
+﻿cl : Línea de comandos warning D9002: se omite la opción desconocida '-msse3'
+  filter.cpp
+  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xlocale(315): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\main.cpp(77): error C3861: 'max': no se encontró el identificador
+d:\projects\master\qtstereocamproject\qtstereocamproject\libelas\src\main.cpp(78): error C3861: 'max': no se encontró el identificador
+  Generando código...
