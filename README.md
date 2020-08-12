@@ -12,6 +12,8 @@ The phases carried out throughout the project were the following:
 A graphic interface in Qt has been implemented.
 
 # The GUI #
+![alt text](https://github.com/alvarobasi/QtStereoCamProject/blob/master/calibration_gui.png)
+
 The user interface is quite simple to use. It consists of two views within which three type of images can be displayed: the calibration images as they are being processed by the calibration process; the disparity matrix ; the images captured in real-time by the cameras in the Start Capture mode with a built-in feedback indicating when the program is correctly detecting the panel pattern in order to make sure that the images to be captured will be recognized later by the findChessboardCorners function in the calibration process.
 
 While in the Start Capture mode, you can press the Take Pic button to capture and save the pair of images for later calibration. With the Calibrate Cameras button the calibration process will be initiated by taking the images contained in the specified folder. At the end of the process, the program will output the reprojection error obtained from the process. The Disparity Map button will start the computation process of the disparity matrix. When it finishes, it will save a disparity matrix image for debug purposes, and a txt with the 3d point cloud in millimeters.
